@@ -10,3 +10,4 @@ public class Main {
         s.addGrade(2, "APBD");
         Student.promoteAllStudents();
         Student.displayInfoAboutAllStudents();
+    }
